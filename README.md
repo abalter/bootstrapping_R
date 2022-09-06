@@ -48,4 +48,17 @@ Explore these resources (in no particular order) and find ones that fit your lea
 - [Applied Epi (beginner to intermediate)](https://appliedepi.org/tutorial/#our-free-self-paced-r-tutorial-series)
 - [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
   This is a bit old fashioned and doesn't emphasize tidyverse best practices. But it is so well written and well organized that it remains a great resource.
+  
+## Help
+If you want to discuss things or ask me questions, file an "Issue" and we can use that as a thread.
+- [Openscapes Champions Series - GitHub for project management](https://openscapes.github.io/series/core-lessons/github/github-issues.html)
+
+- [Creating an issue - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+
+- [GitHub Issues - GitHub Docs](https://docs.github.com/en/issues)
+
+- [Best Practices for Using GitHub Issues - Rewind](https://rewind.com/blog/best-practices-for-using-github-issues/)
+
+- [GitHub Issues · Web Dev Topics · Learn the Web](https://learn-the-web.algonquindesign.ca/topics/github-issues/)
+
 
