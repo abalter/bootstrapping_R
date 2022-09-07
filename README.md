@@ -29,7 +29,7 @@ I would start with one of these two:
 
 - [Quick-R:](https://www.statmethods.net/)
 
-- [Introduction to R Online Course | DataCamp(https://www.datacamp.com/courses/free-introduction-to-r)
+- [Introduction to R Online Course | DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
 
 - [Applied Epi (beginner to intermediate)](https://appliedepi.org/tutorial/#our-free-self-paced-r-tutorial-series)
 
